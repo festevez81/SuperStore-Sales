@@ -48,10 +48,15 @@ Cómo Probarla: Realizar un análisis de series temporales para identificar patr
 
 # Dataset
 El dataset cuenta con 5 tablas
+
 •	Clientes: 793 registros únicos.
+
 •	Sucursales: 628 registros únicos.
+
 •	Productos: 1861 registros
+
 •	Pedidos: 4922 registros
+
 •	Facturas: 9800
 
 <a href="https://github.com/festevez81/SuperStore-Sales/blob/main/Superstore%20Sales.xlsx">Ver Dataset</a> 
