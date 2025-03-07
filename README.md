@@ -10,24 +10,34 @@ Analizar y mejorar las ventas mensuales de la tienda mediante la identificación
 
 Measurable (Medible)
 Se utilizarán indicadores medibles para analizar:
+
 •	Incremento en Ventas Mensuales: Medir el porcentaje de incremento en las ventas mensuales después de implementar estrategias basadas en los insights obtenidos del análisis.
+
 •	Productos Más Vendidos: Identificar y listar los 10 productos más vendidos cada mes.
+
 •	Ubicación: Identificar que ciudades y estados son los que más ventas tienen.
 
 Achievable (Alcanzable)
+
 •	Recolección de Datos: Recopilar datos de ventas diarias desde el 2015 al 2018, datos de inventario y localidades.
+
 •	Análisis de Datos: Utilizar herramientas como Excel y Power BI para analizar los
 datos de ventas y generar informes detallados.
+
 •	Estrategias Basadas en Insights: Implementar estrategias promocionales y de inventario basadas en los insights obtenidos del análisis de datos.
 
 Relevant (Relevante)
+
 •	Mejora de la Rentabilidad: Un análisis detallado de las ventas ayudará a tomar decisiones informadas que aumenten la rentabilidad de la supertienda.
+
 •	Optimización de Inventario: Identificar los productos más vendidos y los
 patrones de compra permitirá una mejor gestión del inventario, reduciendo el exceso de stock y minimizando la escasez de productos.
+
 •	Ajuste de Estrategias de Marketing: Conocer los factores que influyen en las
 ventas ayudará a diseñar estrategias de marketing más efectivas.
 
 Time-bound (Limitado en el tiempo)
+
 El proyecto se desarrollará en tres entregas parciales, con fechas específicas de entrega, y culminará con un proyecto final. La primera entrega incluye la descripción de la temática, la hipótesis y la identificación del dataset. Las siguientes entregas profundizarán en el análisis de datos y en la visualización de resultados, culminando en la presentación del tablero de Power BI y la documentación completa del proyecto.
 
 # Descripción de la Hipótesis
