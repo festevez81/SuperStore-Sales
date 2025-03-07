@@ -76,6 +76,13 @@ Se utilizará para identificar tendencias a largo plazo. Oportunidades y amenaza
 
 <a href="https://github.com/festevez81/SuperStore-Sales/blob/main/Superstore.pbix">Ver Dashboard</a>
 
+![dashboard image 1](https://github.com/user-attachments/assets/75520811-5362-49a3-9998-493b87e2eb1f)
+![dashboard image 2](https://github.com/user-attachments/assets/5c6bf705-ff4b-412b-bbae-4fd904261c64)
+![dashboard image 3](https://github.com/user-attachments/assets/c73a0842-2f9a-42f7-a9c3-8e42b366fa3a)
+
+
+
+
 
 
 
