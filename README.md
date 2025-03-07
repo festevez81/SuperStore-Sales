@@ -80,6 +80,17 @@ Se utilizará para identificar tendencias a largo plazo. Oportunidades y amenaza
 ![dashboard image 2](https://github.com/user-attachments/assets/5c6bf705-ff4b-412b-bbae-4fd904261c64)
 ![dashboard image 3](https://github.com/user-attachments/assets/c73a0842-2f9a-42f7-a9c3-8e42b366fa3a)
 
+# Conclusiones
+
+## Efecto de la Estacionalidad en las Ventas
+
+Se ha comprobado que las ventas experimentan un incremento significativo en ciertas épocas del año, especialmente durante el otoño. Esto se debe a la influencia de eventos como el Black Friday y las festividades navideñas.
+
+Hipótesis: Las ventas de ciertos productos muestran patrones estacionales claramente definidos.
+
+Se realizó un análisis de series temporales para identificar patrones de ventas estacionales de productos específicos. A través de este análisis, se observó un incremento de las ventas en determinadas estaciones. Además, se pudo identificar qué subcategorías y productos son los más demandados en estas fechas, lo cual es útil para anticipar y gestionar el stock de manera eficiente.
+
+Además, se llevó a cabo un análisis exhaustivo de las sucursales, identificando cuáles tienen un rendimiento óptimo y cuáles no. Este análisis es crucial para la toma de decisiones tanto tácticas como estratégicas.
 
 
 
